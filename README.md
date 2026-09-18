@@ -111,7 +111,7 @@ The WHOIS lookup provided information relating to the domain registration and na
 
 ### 📸 Evidence
 
-**[INSERT WHOIS SCREENSHOT HERE]**
+![WHOIS Results](screenshots/who_is_screenshot.png)
 
 ### 💡 Observation
 
@@ -142,7 +142,7 @@ WhatWeb identified several technologies associated with the website.
 
 ### 📸 Evidence
 
-**[INSERT WHATWEB SCREENSHOT HERE]**
+![WhatWeb Results](screenshots/what_web_screenshot.png)
 
 ### 💡 Observation
 
@@ -171,7 +171,7 @@ nslookup networkwalks.com
 
 ### 📸 Evidence
 
-**[INSERT NSLOOKUP SCREENSHOT HERE]**
+![Nslookup Results](screenshots/ns_lookup_screenshot.png)
 
 ### 💡 Observation
 
@@ -197,7 +197,7 @@ The HTTP response provided additional technical information about the web applic
 
 ### 📸 Evidence
 
-**[INSERT CURL SCREENSHOT HERE]**
+![Curl Results](screenshots/curl_screenshot.png)
 
 ### 💡 Observation
 
@@ -225,7 +225,7 @@ wafw00f https://networkwalks.com
 
 ### 📸 Evidence
 
-**[INSERT WAFW00F SCREENSHOT HERE]**
+![Wafw00f Results](screenshots/waf_w00f_screenshot.png)
 
 ### 💡 Observation
 
@@ -253,7 +253,9 @@ DNSRecon returned information relating to the domain's DNS configuration.
 
 ### 📸 Evidence
 
-**[INSERT DNSRECON SCREENSHOT HERE]**
+**Evidence:**
+
+![DNSRecon Results](screenshots/dns_recon_screenshot.png)
 
 ### 💡 Observation
 
@@ -305,7 +307,7 @@ ipconfig /all
 
 ### 📸 Evidence
 
-**[INSERT IPCONFIG SCREENSHOT HERE]**
+![IP Config Result](screenshots/ipconfig_screenshot.png)
 
 ### 💡 Observation
 
@@ -340,8 +342,7 @@ The Zenmap scan identified **6 live hosts** on my local network. The scan also p
 
 ### 📸 Evidence
 
-**[INSERT SCREENSHOT HERE]**
-
+![Zenmap Live Hosts](screenshots/scan_screenshot.png)
 
 ---
 
@@ -359,11 +360,11 @@ I configured the topology view and saved the resulting network topology in **PDF
 
 ### 📸 Evidence
 
-**[INSERT ZENMAP TOPOLOGY SCREENSHOT HERE]**
+![Network Topology](screenshots/network_topology_screenshot.png)
 
 ### 📄 Topology PDF
 
-**[INSERT / LINK TO TOPOLOGY PDF IF INCLUDING IT IN THE REPOSITORY]**
+[📄 View Network Topology PDF](network_topology_pdf.pdf)
 
 ### 💡 Observation
 
